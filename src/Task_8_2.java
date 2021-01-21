@@ -16,11 +16,11 @@ public class Task_8_2 {
             }
 
             for (int y=0; y<space; y++ ) {
-                System.out.print("     ");
+                System.out.print("    ");
             }
 
             for (int y=0; y<start; y++ ) {
-                System.out.print("  *  ");
+                System.out.print("   *");
             }
 
             System.out.println();
