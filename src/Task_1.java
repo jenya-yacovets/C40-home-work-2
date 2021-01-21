@@ -9,6 +9,6 @@ public class Task_1 {
             interval += interval*index/100;
         }
 
-        System.out.println("Спротсмен пробежит " + interval + " км");
+        System.out.println("Спортсмен пробежит " + interval + " км");
     }
 }
