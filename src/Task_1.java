@@ -5,7 +5,7 @@ public class Task_1 {
         int days = 7;
         int index = 10;
 
-        for (int i = 1; i<days; i++) {
+        for (int i = 2; i<=days; i++) {
             interval += interval*index/100;
         }
 
