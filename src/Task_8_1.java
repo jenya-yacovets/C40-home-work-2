@@ -13,7 +13,7 @@ public class Task_8_1 {
             int count = n - space;
 
             for (int x=0; x<count; x++) {
-                System.out.print(" *");
+                System.out.print("* ");
             }
             space++;
             System.out.println();
